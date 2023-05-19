@@ -38,7 +38,8 @@
     "src/**/*.d.js",
     "src/**/*.jsx",
     "src/**/*.vue",
-    "vite.config.js"
+    "vite.config.js",
+    "jsconfig.json"
   ],
   "exclude": ["node_modules", "dist", "**/*.js"]
 }
